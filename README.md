@@ -9,6 +9,7 @@ In this project, we will be building a chatbot using Watson assistant. This chat
 2.	The Bot should be able to show different show timings
 3.	When a movie is selected the bot should show the availability of tickets and their respective prices.
 4.	The bot should be in a position to book tickets.
+
 Services Used:
 1.	IBM Watson Assistant
 2.	Node-Red 
