@@ -533,7 +533,7 @@
           {
             "values": [
               {
-                "text": "Thank You!!! Your Ticket for $movielist of show timing $Showtiming is booked for Rs. $Price Please pay using $payment..."
+                "text": "Thank You!!! Your Ticket for $movielist of show timing $Showtimings is booked for Rs. $Price Please pay using $payment..."
               }
             ],
             "response_type": "text",
